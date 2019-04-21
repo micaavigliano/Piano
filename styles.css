@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	background: #ffc;
+	text-align: center;
+	line-height: 100vh;
+}
+
+button {
+	vertical-align: middle;
+	width: 150px;
+	height: 150px;
+	background: lightcoral;
+	font-family: 'Righteous', cursive;
+	font-size: 30px;
+	margin-right: 15px;
+	border-radius: 100%;
+	border: none;
+}
+
+button:active {
+	border: none;
+}
+
+p {
+	font-family: 'Righteous', cursive;
+	font-size: 15px;
+}
+
